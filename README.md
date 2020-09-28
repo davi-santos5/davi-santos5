@@ -1,5 +1,5 @@
 ## Hello there! 👋 I'm Davi
-### A passionate frontend developer from Brazil
+### A passionate front-end developer from Brazil
 I'm studying front-end developmen and looking foward to help open source projects and learn by helping others.:wink::grin:
 <br>Currently studying ReactJS:computer: 
 
